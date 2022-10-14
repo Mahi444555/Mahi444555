@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **frontend project**
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **web development**
 
 - 🤝 I’m looking for help with **Reactjs project**
 
