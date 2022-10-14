@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://myportfolio444555.netlify.app/](https://myportfolio444555.netlify.app/)
 
-- 💬 Ask me about **reactjs, javaScript, java**
+- 💬 Ask me about **reactjs, javaScript, java, html5, css3, mysql**
 
 - 📫 How to reach me **mahi25101999@gmail.com**
 
