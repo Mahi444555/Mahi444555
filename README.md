@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **web development**
 
 - 🤝 I’m looking for help with **Reactjs project**
+- 
+- I’m looking for help with **JAVA project**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio444555.netlify.app/](https://myportfolio444555.netlify.app/)
 
