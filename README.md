@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 🤝 I’m looking for help with **Reactjs project**
+- 🤝 I’m looking for help with  **Reactjs project**
 - 
 - I’m looking for help with **JAVA project**
 
